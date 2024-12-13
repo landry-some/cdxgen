@@ -1,12 +1,3 @@
-[![JSR][badge-jsr]][jsr-cdxgen]
-[![NPM][badge-npm]][npmjs-cdxgen]
-[![GitHub Releases][badge-github-releases]][github-releases]
-[![NPM Downloads][badge-npm-downloads]][npmjs-cdxgen]
-[![GitHub License][badge-github-license]][github-license]
-[![GitHub Contributors][badge-github-contributors]][github-contributors]
-[![SWH][badge-swh]][swh-cdxgen]
-[![Libraries.io dependency status][badge-libraries]][librariesio]
-
 # CycloneDX Generator (cdxgen)
 
 ![cdxgen logo](./docs/_media/cdxgen.png)
